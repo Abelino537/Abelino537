@@ -12,10 +12,8 @@ Habilidades: HTML5 \\ CSS3 / Java Script \\
 - 🌱 Estoy aprendiendo Python, MySQL, Java, Mongo DB, etc. 
 - 📫 Cómo contactarme: +54 260 431-0602 
 
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Abelino537)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/abel-pierna-077866220//)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abelino537)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abelino537&show_icons=true)  
 
