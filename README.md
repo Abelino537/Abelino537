@@ -21,6 +21,8 @@ Actualmente, me encuentro en búsqueda de mi primera experiencia laboral en el m
 - 📱 Mi Telefono +54260431-0602
 - 💻 Visitia mi Linkedin [@AbelPierna](https://www.linkedin.com/in/abel-pierna-077866220/)
 
+##Gráfico de actividad 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abelino537)](https://github.com/anuraghazra/github-readme-stats)
 ## **Visita mi Portfolio [ElementalCoders](https://www.elementalcoders.com/)**
 
 
