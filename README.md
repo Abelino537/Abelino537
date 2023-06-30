@@ -16,7 +16,6 @@ Actualmente, me encuentro en búsqueda de mi primera experiencia laboral en el m
 
 - 🔭 Estoy trabajando en mi Portfolio profecional 
 - 🌱 Estoy aprendiendo Python, MySQL, Java, Mongo DB, etc. 
-- 🤝 Quiero colaborar con [Jeremias Riquero](https://github.com/JereRiquero)
 - 📫 Mi correo mpierna3@gmail.com
 - 📱 Mi Telefono +54260431-0602
 - 💻 Visitia mi Linkedin [@AbelPierna](https://www.linkedin.com/in/abel-pierna-077866220/)
